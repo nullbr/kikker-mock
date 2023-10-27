@@ -33,3 +33,4 @@ SELECT * from dnvcb;
 SELECT * from jsyud;
 SELECT * from fnati;
 SELECT * from qpwts;
+SELECT * from mdgla;
