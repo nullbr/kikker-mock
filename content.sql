@@ -4,3 +4,4 @@ SELECT * from qtrhp;
 SELECT * from hmhvs;
 SELECT * from chejs;
 SELECT * from ajsxo;
+SELECT * from nixwp;
