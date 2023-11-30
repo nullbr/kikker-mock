@@ -5,3 +5,4 @@ SELECT * from hmhvs;
 SELECT * from chejs;
 SELECT * from ajsxo;
 SELECT * from yysrw;
+SELECT * from kmhxm;
