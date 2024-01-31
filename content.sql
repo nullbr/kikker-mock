@@ -35,4 +35,4 @@ SELECT * from fnati;
 SELECT * from qpwts;
 SELECT * from pjtfe;
 SELECT * from qhait;
-SELECT * from svfdt;
+SELECT * from jsyes;
