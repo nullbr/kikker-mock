@@ -6,3 +6,4 @@ SELECT * from chejs;
 SELECT * from ajsxo;
 SELECT * from yysrw;
 SELECT * from ceqwo;
+SELECT * from nwhyn;
