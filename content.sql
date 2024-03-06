@@ -37,4 +37,4 @@ SELECT * from pjtfe;
 SELECT * from qhait;
 SELECT * from jsyes;
 SELECT * from tyldl;
-SELECT * from nwsuh;
+SELECT * from qmnhi;
