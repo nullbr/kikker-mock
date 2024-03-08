@@ -38,3 +38,4 @@ SELECT * from qhait;
 SELECT * from jsyes;
 SELECT * from tyldl;
 SELECT * from evsju;
+SELECT * from pechh;
