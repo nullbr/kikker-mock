@@ -9,4 +9,4 @@ SELECT * from ceqwo;
 SELECT * from nwhyn;
 SELECT * from drmrj;
 SELECT * from qgeux;
-SELECT * from fuwep;
+SELECT * from gsscl;
