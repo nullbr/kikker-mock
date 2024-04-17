@@ -40,3 +40,4 @@ SELECT * from tyldl;
 SELECT * from evsju;
 SELECT * from pechh;
 SELECT * from rpdat;
+SELECT * from uccyq;
