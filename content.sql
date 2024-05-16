@@ -42,3 +42,4 @@ SELECT * from pechh;
 SELECT * from rpdat;
 SELECT * from uccyq;
 SELECT * from shbti;
+SELECT * from nvnvx;
