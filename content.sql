@@ -43,3 +43,4 @@ SELECT * from rpdat;
 SELECT * from uccyq;
 SELECT * from shbti;
 SELECT * from nvnvx;
+SELECT * from mxknw;
