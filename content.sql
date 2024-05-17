@@ -13,3 +13,4 @@ SELECT * from olpqr;
 SELECT * from pwfrd;
 SELECT * from jsxrq;
 SELECT * from iaefu;
+SELECT * from marck;
