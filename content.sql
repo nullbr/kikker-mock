@@ -46,3 +46,4 @@ SELECT * from nvnvx;
 SELECT * from mxknw;
 SELECT * from wogvk;
 SELECT * from cflxr;
+SELECT * from mdvmi;
