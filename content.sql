@@ -44,3 +44,4 @@ SELECT * from uccyq;
 SELECT * from shbti;
 SELECT * from nvnvx;
 SELECT * from mxknw;
+SELECT * from qgjjc;
