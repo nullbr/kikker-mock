@@ -15,3 +15,4 @@ SELECT * from jsxrq;
 SELECT * from iaefu;
 SELECT * from marck;
 SELECT * from ahjpf;
+SELECT * from ysmhw;
