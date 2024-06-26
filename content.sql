@@ -16,3 +16,4 @@ SELECT * from iaefu;
 SELECT * from marck;
 SELECT * from ahjpf;
 SELECT * from ysmhw;
+SELECT * from ykxfi;
