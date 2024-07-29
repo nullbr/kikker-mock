@@ -48,3 +48,4 @@ SELECT * from wogvk;
 SELECT * from cflxr;
 SELECT * from mdvmi;
 SELECT * from prlsc;
+SELECT * from wcjsa;
