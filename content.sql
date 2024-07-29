@@ -18,3 +18,4 @@ SELECT * from ahjpf;
 SELECT * from ysmhw;
 SELECT * from ykxfi;
 SELECT * from isoip;
+SELECT * from xauvd;
