@@ -20,3 +20,4 @@ SELECT * from ykxfi;
 SELECT * from isoip;
 SELECT * from xauvd;
 SELECT * from gvpuh;
+SELECT * from uuigi;
