@@ -50,3 +50,4 @@ SELECT * from mdvmi;
 SELECT * from prlsc;
 SELECT * from wcjsa;
 SELECT * from wofle;
+SELECT * from sruvv;
