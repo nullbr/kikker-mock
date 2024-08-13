@@ -53,3 +53,4 @@ SELECT * from wofle;
 SELECT * from sruvv;
 SELECT * from ndhoc;
 SELECT * from ymsoo;
+SELECT * from sxfak;
