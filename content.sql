@@ -24,3 +24,4 @@ SELECT * from uuigi;
 SELECT * from lberl;
 SELECT * from vlrad;
 SELECT * from kjved;
+SELECT * from xjbei;
