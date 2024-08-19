@@ -26,3 +26,4 @@ SELECT * from vlrad;
 SELECT * from kjved;
 SELECT * from xjbei;
 SELECT * from gjuru;
+SELECT * from sbdvb;
