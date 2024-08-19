@@ -56,3 +56,4 @@ SELECT * from ymsoo;
 SELECT * from sxfak;
 SELECT * from pysqn;
 SELECT * from pmjsn;
+SELECT * from uvnsq;
