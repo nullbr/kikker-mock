@@ -58,3 +58,4 @@ SELECT * from pysqn;
 SELECT * from pmjsn;
 SELECT * from uvnsq;
 SELECT * from novdl;
+SELECT * from ssfbx;
