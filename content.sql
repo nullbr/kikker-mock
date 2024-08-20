@@ -59,3 +59,4 @@ SELECT * from pmjsn;
 SELECT * from uvnsq;
 SELECT * from novdl;
 SELECT * from ssfbx;
+SELECT * from wlbce;
