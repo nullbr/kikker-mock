@@ -30,3 +30,4 @@ SELECT * from sbdvb;
 SELECT * from asggc;
 SELECT * from rhibq;
 SELECT * from dnvcb;
+SELECT * from jsyud;
