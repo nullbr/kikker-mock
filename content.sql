@@ -29,3 +29,4 @@ SELECT * from gjuru;
 SELECT * from sbdvb;
 SELECT * from asggc;
 SELECT * from rhibq;
+SELECT * from dnvcb;
