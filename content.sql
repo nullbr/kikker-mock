@@ -31,3 +31,4 @@ SELECT * from asggc;
 SELECT * from rhibq;
 SELECT * from dnvcb;
 SELECT * from jsyud;
+SELECT * from fnati;
