@@ -61,3 +61,4 @@ SELECT * from novdl;
 SELECT * from ssfbx;
 SELECT * from wlbce;
 SELECT * from nsdyg;
+SELECT * from eirge;
