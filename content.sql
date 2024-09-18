@@ -66,3 +66,4 @@ SELECT * from fptdn;
 SELECT * from wcxmp;
 SELECT * from ynlth;
 SELECT * from hdjym;
+SELECT * from ejtaj;
