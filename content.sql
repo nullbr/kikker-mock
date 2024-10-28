@@ -68,3 +68,4 @@ SELECT * from ynlth;
 SELECT * from hdjym;
 SELECT * from ejtaj;
 SELECT * from opvbt;
+SELECT * from yfmib;
