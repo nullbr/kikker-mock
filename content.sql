@@ -71,3 +71,5 @@ SELECT * from opvbt;
 SELECT * from yfmib;
 SELECT * from rtfep;
 SELECT * from chbvg;
+SELECT * from vipgb;
+SELECT * from newbq;
