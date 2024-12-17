@@ -74,3 +74,4 @@ SELECT * from chbvg;
 SELECT * from vipgb;
 SELECT * from newbq;
 SELECT * from pmqyl;
+SELECT * from lrkob;
