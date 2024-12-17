@@ -75,3 +75,4 @@ SELECT * from vipgb;
 SELECT * from newbq;
 SELECT * from pmqyl;
 SELECT * from lrkob;
+SELECT * from rkprc;
