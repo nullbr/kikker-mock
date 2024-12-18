@@ -78,3 +78,4 @@ SELECT * from lrkob;
 SELECT * from rkprc;
 SELECT * from ojxfk;
 SELECT * from eefoj;
+SELECT * from pktuf;
