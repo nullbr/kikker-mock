@@ -77,3 +77,4 @@ SELECT * from pmqyl;
 SELECT * from lrkob;
 SELECT * from rkprc;
 SELECT * from ojxfk;
+SELECT * from eefoj;
